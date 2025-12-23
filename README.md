@@ -52,23 +52,7 @@
 - Strengthen DSA fundamentals  
 - Build real-world projects  
 - Become a better developer step by step  
-- Move towards full-stack development  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: Coming Soon  
-- 📫 Email: Add if you want  
-- 🌱 GitHub: You’re already here 😉
+- Move towards full-stack development
 
 ---
 
